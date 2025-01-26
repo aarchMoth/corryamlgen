@@ -6,4 +6,3 @@ i wrote this originally because i was sick of manually adding and labeling chann
 
 # Dependencies
 Corrscope (for preview and rendering)  
-Furnace (for the direct Furnace rendering version)
